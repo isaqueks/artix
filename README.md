@@ -1,7 +1,7 @@
 # artix
 Article Renderer to HTML   
 ### Running:
-```dotnet ArtixPost.dll article.tix rules.xml outputArticle.html```
+```dotnet ArtixPost.dll article.xml rules.xml outputArticle.html```
 
 # Demo input file:
 ```
