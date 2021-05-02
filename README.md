@@ -3,7 +3,7 @@ Article Renderer to HTML
 ### Running:
 ```dotnet ArtixPost.dll article.xml rules.xml outputArticle.html```
 
-# Demo input file:
+# Demo article.xml file:
 ```
 <?xml version="1.0" encoding="utf-8" ?>
 
@@ -17,7 +17,7 @@ Article Renderer to HTML
 </document>
 ```
 
-# Demo rules file:
+# Demo rules.xml file:
 ```
 <?xml version="1.0" encoding="utf-8" ?>
 
