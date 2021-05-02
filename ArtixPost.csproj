@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <Nullable>enable</Nullable>
+    <StartupObject>ArtixPost.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
